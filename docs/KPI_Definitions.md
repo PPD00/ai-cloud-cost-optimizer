@@ -51,3 +51,22 @@ Business Value:
 Provides visibility into spending trends, supports budget planning, and serves as input for AI-based forecasting models.
 
 
+
+
+# KPI Definitions
+
+| KPI | Definition |
+|------|------------|
+| Total Cloud Cost | Total cloud expenditure in INR |
+| Total Resources | Total number of cloud resources |
+| Average CPU Utilization | Average CPU utilization across all resources |
+| Average Memory Utilization | Average memory utilization across all resources |
+| Average Usage Duration | Average running time of cloud resources |
+| Total Services | Number of unique cloud services |
+| Total Regions | Number of unique cloud regions |
+| High Severity Anomalies | Total high-risk resources detected by AI |
+| Underutilized Resources | Resources having low CPU and Memory utilization |
+| Potential Cost Savings | Estimated savings from optimization recommendations |
+| Monthly Cloud Cost | Monthly aggregated cloud spending |
+| Average Cost per Resource | Average cost incurred by each resource |
+| Network Usage | Total inbound and outbound network traffic |
